@@ -19,7 +19,7 @@ public class Main {
             ptr.next = new ListNode(val);
             ptr = ptr.next;
         }
-        return head;
+        return head.next;
     }
 
     public static void printList(ListNode head) {
