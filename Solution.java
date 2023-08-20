@@ -1,1 +1,5 @@
-public class Solution { public ListNode reverseList(ListNode head) {} }
+public class Solution {
+    public ListNode reverseList(ListNode head) {
+        return head;
+    }
+}
